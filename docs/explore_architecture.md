@@ -12,3 +12,8 @@ Using Haiku 4.5 we created a CLAUDE.md with a simple prompt, and told it will ne
 The agent struggled to connect to the MUD.
 The agent would attempt to create temporary code files to manage a telnet connection and execute commands.
 The agent did not have enough information about Text User Interface of the MUD to login and see its mistakes.
+
+## 2. Agent Skills driven by main agent eg. ~/.skills
+A very common way to drive specific functionality is via Agent Skills which is an open format for agents adopted by many coding harnesses and agent SDKs.
+
+-execute blanket python script

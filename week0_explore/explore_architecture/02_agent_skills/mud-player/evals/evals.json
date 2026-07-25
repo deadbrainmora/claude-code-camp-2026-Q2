@@ -1,0 +1,35 @@
+{
+  "skill_name": "mud-player",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Connect to the MUD at localhost:4000 and check the current status. What is the character name, level, and health?",
+      "expected_output": "Should connect successfully and display character status with name, level, health values",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Look at the current room. What location are we in and what exits are available?",
+      "expected_output": "Should display room name, description, and available exits",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Check our inventory. What items are we currently carrying?",
+      "expected_output": "Should display list of items in inventory or indicate empty",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Move north and then check the status again. Report the new location.",
+      "expected_output": "Should move successfully and display new room information",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "Find an NPC or creature and attempt to interact with or fight it. Report the outcome.",
+      "expected_output": "Should show combat message, damage, or interaction result",
+      "files": []
+    }
+  ]
+}

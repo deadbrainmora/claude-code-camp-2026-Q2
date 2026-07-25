@@ -1,0 +1,27 @@
+{
+  "name": "mud-player",
+  "version": "1.0.0",
+  "description": "Claude skill for playing tbaMUD/circleMUD games",
+  "main": "scripts/mud_cli.js",
+  "bin": {
+    "mud-cli": "scripts/mud_cli.js"
+  },
+  "scripts": {
+    "start": "node scripts/mud_cli.js interactive",
+    "connect": "node scripts/mud_cli.js connect",
+    "cli": "node scripts/mud_cli.js"
+  },
+  "keywords": [
+    "mud",
+    "game",
+    "telnet",
+    "tbamud",
+    "circlemud"
+  ],
+  "author": "Claude Code",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
