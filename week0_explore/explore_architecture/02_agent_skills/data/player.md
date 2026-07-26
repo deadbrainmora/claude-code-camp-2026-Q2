@@ -41,7 +41,6 @@
   - Explore and defeat enemies in new areas (levels 3-5)
   - Reach level 6 prerequisites
   - Final grind to level 7
-  > Currently level 1, 246 exp (1754 more to level 2). Well-equipped with starter gear.
 
 - [ ] **Defeat a Specific Monster** (Priority: 2)
   - Discover and locate target monster

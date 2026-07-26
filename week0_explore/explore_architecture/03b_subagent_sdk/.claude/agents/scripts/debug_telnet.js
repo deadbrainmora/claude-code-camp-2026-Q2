@@ -34,7 +34,7 @@ socket.on('connect', () => {
 
   // Send password after 3 seconds
   setTimeout(() => {
-    console.log('>>> Sending:helloworld\n');
+    console.log('>>> Sending: helloworld\n');
     socket.write('helloworld\n');
   }, 3000);
 

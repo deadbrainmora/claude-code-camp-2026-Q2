@@ -17,3 +17,14 @@ The agent did not have enough information about Text User Interface of the MUD t
 A very common way to drive specific functionality is via Agent Skills which is an open format for agents adopted by many coding harnesses and agent SDKs.
 
 -execute blanket python script
+
+/*
+Agent Skills can reliably connect to and play the MUD.
+Simple goals can be completed using Haiku 4.5.
+More complex state, world, and player management is still required.
+The agent needs better observability for token usage and its current journey.
+A custom agentic loop would provide more control over execution, planning, and memory.
+The agent should use a configurable player persona, including risk and exploration preferences.
+Goals should be decomposed into a visible plan before execution.
+:?
+/
