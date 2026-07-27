@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/karolmoralesmaureira/Documents/claude-code-camp-2026-Q/claude-code-camp-2026-Q2/week0_explore/explore_architecture/03b_subagent_sdk/.venv/bin/python3
 """Run the MUD player agent via the Claude Agent SDK.
 
 Usage:

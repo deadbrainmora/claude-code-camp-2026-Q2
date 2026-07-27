@@ -2,16 +2,11 @@
 
 ## Character Stats
 - Name: dummy
-- Level: 1 (Swordpupil)
-- Experience: 246/2000 (need 1754 more to level up)
-- Location: Poor Alley
+- Level: 1
+- Experience: 246
+- Location: That's not a menu choice!
 - Health: 20/20
 - Mana: 100/100
-- Movement: 83/85
-- Gold: 30 coins
-- Armor Class: 39/10
-- Alignment: 44
-- Age: 17 years old
 
 ## Inventory
 - (empty)
@@ -41,7 +36,6 @@
   - Explore and defeat enemies in new areas (levels 3-5)
   - Reach level 6 prerequisites
   - Final grind to level 7
-
 - [ ] **Defeat a Specific Monster** (Priority: 2)
   - Discover and locate target monster
   - Learn its difficulty and loot table
@@ -49,7 +43,6 @@
   - Develop combat strategy
   - Execute fight
   > Need to identify which monster to target first
-
 - [ ] **Explore and Map Starting Region** (Priority: 3)
   - Visit all accessible locations from starting area
   - Document exits and connections
@@ -64,4 +57,4 @@
 ### Spells
 - (none learned)
 
-*Last updated: 2024-07-23T22:45:00.000Z*
+*Last updated: 2026-07-27T02:52:41.475Z*
